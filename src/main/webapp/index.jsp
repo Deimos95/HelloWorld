@@ -48,7 +48,7 @@
 </ul> </div> <div class="c2"> <ul class="links">
 <li><a target="_blank" href="http://www.youtube.com/user/JelasticCloud">See how Jelastic is used to host popular Java applications</a></li> 
 <li><a target="_blank" href="http://blog.jelastic.com/">Check out our How-Tos for popular apps and frameworks</a></li> </ul> 
-</div>123456</div>
+</div>1234567</div>
 <div class="footer"> &copy; <a id="footer-link" href="http://jelastic.com/" target="_blank">Jelastic inc.</a>, <%= new java.text.SimpleDateFormat("yyyy").format(new java.util.Date()) %> All Rights Reserved. </div>
 </div> <script type="text/javascript"text/javascript" duris:nomerge=1>(function(e,a,f){var c,b=e.getElementsByTagName(a)[0];if(e.getElementById(f)){return}c=e.createElement(a);c.id=f;c.src="//connect.facebook.net/en_US/all.js#xfbml=1";b.parentNode.insertBefore(c,b)}(document,"script","facebook-jssdk"));var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-24049059-10"]);_gaq.push(["_setDomainName","example.com"]);_gaq.push(["_setAllowLinker",true]);_gaq.push(["_trackPageview"]);(function(){var b=document.createElement("script");b.type="text/javascript";b.async=true;b.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})();</script> <script src="optimum/js/out.js" type="text/javascript">
 </script>
